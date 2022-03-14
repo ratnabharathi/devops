@@ -1,0 +1,6 @@
+git init
+git commit -m devopscommit devops
+git log
+touch 1 2 3
+cd 1
+cd devops
