@@ -1,0 +1,16 @@
+
+git download--> install
+
+git --version
+======================================
+touch f.name
+ls/ll (to see list of files)  (ll-ong list)  
+ls-lrth
+cat f.name   (to see data in file)
+clear or
+ctrl+l
+
+=======================================
+git status
+
+git init
